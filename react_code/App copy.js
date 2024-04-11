@@ -62,7 +62,6 @@ function updateSearchTermHandler(e) {
       
       <Search2 />
 
-      
       <Search3 onSearch={handleSearch}/>
      
       <Children id="ghl">Hello React</Children>
@@ -83,9 +82,9 @@ function updateSearchTermHandler(e) {
       
       <List persons={persons1} />
       
-      {/* <Counter /> */}
+      <Counter />
       
-      {/* <SignUpForm /> */}
+      <SignUpForm />
 
     </div>
     
